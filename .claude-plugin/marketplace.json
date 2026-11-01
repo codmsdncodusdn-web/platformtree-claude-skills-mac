@@ -1,0 +1,23 @@
+{
+  "name": "platformtree",
+  "owner": {
+    "name": "플랫폼트리"
+  },
+  "metadata": {
+    "description": "플랫폼트리 Claude 영상 편집 스킬 모음",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cut-filler",
+      "source": "./plugins/cut-filler",
+      "description": "말하는 영상에서 음·어 같은 군말, 무음, NG 테이크를 자동으로 잘라내는 컷편집 스킬",
+      "version": "1.0.0",
+      "author": {
+        "name": "플랫폼트리"
+      },
+      "category": "productivity",
+      "keywords": ["video", "editing", "jumpcut", "filler", "korean"]
+    }
+  ]
+}

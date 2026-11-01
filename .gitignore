@@ -1,0 +1,14 @@
+# 영상·음성·작업 폴더는 올리지 않는다 (GitHub 파일당 100MB 제한)
+*.mp4
+*.mov
+*.m4v
+*.mkv
+*.webm
+*.wav
+*.m4a
+*.mp3
+*_cut/
+*.bin
+node_modules/
+.DS_Store
+Thumbs.db

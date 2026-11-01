@@ -1,0 +1,12 @@
+{
+  "name": "cut-filler",
+  "version": "1.0.0",
+  "description": "말하는 영상에서 음·어 같은 군말, 무음, NG 테이크를 자동으로 잘라내는 컷편집 스킬",
+  "author": {
+    "name": "플랫폼트리"
+  },
+  "homepage": "https://github.com/codmsdncodusdn-web/platformtree-claude-skills-mac",
+  "repository": "https://github.com/codmsdncodusdn-web/platformtree-claude-skills-mac",
+  "license": "MIT",
+  "keywords": ["video", "editing", "jumpcut", "filler", "korean"]
+}
